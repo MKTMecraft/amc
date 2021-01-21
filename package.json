@@ -26,7 +26,7 @@
     "node-sass": "^4.13.1",
     "node-static": "^0.7.11",
     "save": "^2.4.0",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.4.0"
   },
   "devDependencies": {}
 }
